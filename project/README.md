@@ -1,0 +1,3 @@
+# RUNNING LOCALHOST OR AUTOMATION
+- npm i
+- npm run dev

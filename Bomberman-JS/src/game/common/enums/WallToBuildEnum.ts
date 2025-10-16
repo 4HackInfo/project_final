@@ -1,5 +1,0 @@
-export enum WALL_TO_BUILD_ENUM {
-  ISOLATED,
-  ROW,
-  COLUMN
-}
